@@ -1,0 +1,11 @@
+<?php
+
+/**
+ * @file
+ * Modulo para crear Borradores sin la necesidad de publicar.
+ */
+
+/**
+* Includes
+*/
+include_once 'drupar_borrador.form.inc';

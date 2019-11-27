@@ -1,0 +1,4 @@
+name = Borrador
+description = Agrega el concepto de "borrador" a la edición de contenido.
+core = 7.x
+package = Drupar
